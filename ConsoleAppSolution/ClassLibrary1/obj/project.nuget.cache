@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/xJ82PZJdYawN1qjo8QN4XsPYRxG4OyomulmXVoJlev05oSkBNJL7/QVw0qmdxqCSdKuLyyaEp8Yoi8gyG02A==",
+  "success": false,
+  "projectFilePath": "C:\\dev\\ConsoleAppSolution\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITUStudent\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ITUStudent\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project ConsoleApp1 is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project ConsoleApp1 supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "ConsoleApp1",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
